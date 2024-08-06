@@ -73,7 +73,7 @@ ToDo API is an API for task management. Users can create, view, update and delet
 
 - **DELETE /api/tasks/{id}/**: Delete the task
 
-### Права на задачи
+### Task Rights
 
 - **GET /api/permissions/**: Get a list of permissions for the current user
 - **POST /api/permissions/**: Grant task rights to another user
