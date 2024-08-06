@@ -1,0 +1,12 @@
+*.sqlite3
+*.db
+
+*/migrations/
+
+.env
+
+
+*.pyc
+__pycache__/
+.vscode/
+
